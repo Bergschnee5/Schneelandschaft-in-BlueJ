@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Clouds
+comment0.text=\r\n\ Die\ Klasse\ ist\ f\u00FCr\ eine\ Wolke\ zust\u00E4ndig.\r\n\ In\ einem\ Thread\ in\ der\ Klasse\ Main\ wird\ diese\ Klasse\ Abgerufen\r\n\ \r\n\ @Bergschnee5\ &\ Tamino\r\n\ 1.0-final\r\n
+comment1.params=fenster\ posx\ posy
+comment1.target=Clouds(sas.View,\ double,\ double)
+numComments=2

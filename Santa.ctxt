@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Santa
+comment0.text=\r\n\ Diese\ Klasse\ ist\ f\u00FCr\ das\ Picture\ vom\ Schlitten\ zust\u00E4ndig\r\n\ Die\ PNG\ ist\ so\ gr\u00FCn,\ weil\ ich\ kein\ Photoshop-PRO\ bin\ -_-\r\n\ \r\n\ @Bergschnee5\ &\ Tamino\r\n\ 1.0-final\r\n
+comment1.params=
+comment1.target=Santa()
+comment2.params=fenster
+comment2.target=void\ santaFly(sas.View)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Snowman
+comment0.text=\r\n\ Diese\ Klasse\ zeichnet\ den\ Schneemann\ in\ der\ Scene.\r\n\ Diese\ wird\ Standardm\u00E4\u00DFig\ nur\ ein\ mal\ ausgef\u00FChrt\ dennoch\ ist\ die\ Position\ pro\ abruf\ W\u00E4hlbar\ in\ der\ Main\ Klasse.\r\n\ \r\n\ @Bergschnee5\ &\ Tamino\r\n\ 1.0-final\r\n
+comment1.params=posx\ posy
+comment1.target=Snowman(double,\ double)
+comment2.params=fenster
+comment2.target=void\ huthoch(sas.View)
+comment3.params=fenster
+comment3.target=void\ mundrotate(sas.View)
+numComments=4

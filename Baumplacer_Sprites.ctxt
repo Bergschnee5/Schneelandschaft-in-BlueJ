@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Baumplacer_Sprites
+comment0.text=\r\n\ Diese\ Klasse\ zeichnet\ einen\ Baum\ an\ den\ von\ der\ Mainklasse\ angegebenen\ Koordinaten\r\n\ \r\n\ @Bergschnee5\ &\ Tamino\r\n\ 1.0-final\r\n
+comment1.params=posx\ posy
+comment1.target=Baumplacer_Sprites(double,\ double)
+numComments=2
